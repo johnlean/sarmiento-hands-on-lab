@@ -6,6 +6,6 @@ mappingDefinitions:
     schema: TPCH_SF1
   WORK:
     database: SARMIENTO
-    schema: WORKDEV
+    schema: WORKTEST
 name: Testing
 type: Environment
